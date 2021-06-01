@@ -71,7 +71,7 @@ public void user_calls_with_http_request(String resource, String method) {
 	    // Write code here that turns the phrase above into concrete actions
 	  
 	 assertEquals(getJsonPath(response,keyValue),Expectedvalue);
-	 System.out.println("Hello this is Vinod ");
+	 System.out.println("Hello this is Vinodg");
 	}
 	
 	@Then("verify place_Id created maps to {string} using {string}")
